@@ -1,2 +1,2 @@
 # CODESOFT_1
-Generates a random number
+NUMBER GUESSING GAME
